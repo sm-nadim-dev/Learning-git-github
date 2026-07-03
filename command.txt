@@ -1,7 +1,7 @@
 echo "# Learning-git-github" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "first commit" ----> every time you commit.
 git branch -M main
 git remote add origin https://github.com/sm-nadim-dev/Learning-git-github.git
 git push -u origin main
